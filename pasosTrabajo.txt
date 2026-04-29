@@ -1,0 +1,8 @@
+lanzar en terminal
+/home/dew/lanza-centroeducativo.sh
+poner en navegador
+localhost:9090/CentroEducativo/swagger-ui.html
+tener extension rested
+captura de lo que poner en rested login y copiar las keys
+qv77s08c71jldk96r4te8msss6
+
